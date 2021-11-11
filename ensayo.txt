@@ -1,1 +1,2 @@
 Esto ens un texto de prueba
+esto es otra linea de prueba con gitkraken
